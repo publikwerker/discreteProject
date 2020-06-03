@@ -1,0 +1,9 @@
+body {
+	box-sizing:border-box;
+	padding:20px;
+	text-align: center;
+}
+
+#root {
+	margin-bottom:10px;
+}
