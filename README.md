@@ -13,3 +13,9 @@ This app will highlight permutations.
 	The app itself is pretty straight-forward. It has a title, subtitle, a brief informational blurb, and a single button with the instructions, "Click to shuffle". Behind the scenes, I have the text names of the cards in a standard deck of playing cards stored in an array and a single function to shuffle the deck and return the new order.  
 	Once the user clicks the button, it runs an algorithm that selects an element (a single card) from the array (the deck) at random, removes that card from the deck, and saves it to a new array. Once all of the cards have been randomly removed and added to the new array, the new array is displayed on the screen.	    
 	To further develop this app, I would like to use images of the cards. I have made a similar program for tarot cards, but I used someone else's algorithm for the shuffle.
+	
+###This is the app when it opens:
+![Screenshot before button is clicked](images/discreteShot1.jpg)
+
+###This is the app after clicking the button:
+![Screenshot after button is clicked](images/discreteShot2.jpg)
